@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [zx-ExternalROM.PrjPcb]
+   Generated File[zx-ExternalROM-Plated.TXT]
+   Generated File[zx-ExternalROM.LDP]
+   Generated File[zx-ExternalROM.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:51:09 On 03.06.2024
